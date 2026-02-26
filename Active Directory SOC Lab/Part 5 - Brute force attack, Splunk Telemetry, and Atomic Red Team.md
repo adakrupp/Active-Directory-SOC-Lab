@@ -117,6 +117,7 @@ Back on the Windows 10 Machine, I am going to Splunk at 192.168.10.10:8000 and l
 ![](/Screenshots/Pasted%20image%2020260225144330.png)
 
 I am going to search `index=endpoint pfry` and set the time to the last 60 minutes.
+
 ![](/Screenshots/Pasted%20image%2020260225144424.png)
 
 Once searched, I will open the field names and look for "EventCode"
@@ -160,6 +161,7 @@ Next, I will make an exclusion for the C drive in the security settings, so that
 ![](/Screenshots/Pasted%20image%2020260225145712.png)
 
 Go to "Virus & Threat Protection"
+
 ![](/Screenshots/Pasted%20image%2020260225145811.png)
 
 Go to "Manage Settings"

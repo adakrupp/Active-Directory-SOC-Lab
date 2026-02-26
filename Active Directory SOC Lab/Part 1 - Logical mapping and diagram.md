@@ -8,12 +8,19 @@ The first step is to use Draw.io to make our diagram:
 ![](/Screenshots/Pasted%20image%2020260220130313.png)
 
 So as we can see, our information is as follows:
+
 Domain: AdamsDomain
+
 Network: 192.168.10.0/24
+
 VM IPs:
+
 Splunk: 192.168.10.10
+
 Active Directory/Windows Server: 192.168.10.7
+
 Kali Linux: 192.168.10.250
+
 Windows 10: DHCP 
 
 There are some other requirements:

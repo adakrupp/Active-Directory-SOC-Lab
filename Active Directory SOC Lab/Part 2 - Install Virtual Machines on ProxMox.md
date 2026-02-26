@@ -46,65 +46,114 @@ Then, go to the next page.
 13. Choose the TPM Storage device
 
 Then, go to the next page.
+
 ![](/Screenshots/Pasted%20image%2020260220160423.png)
+
 14. Choose storage for your disk
 15. Change the disk size to 50GB 
 16. Choose "Raw disk image" under "Format"
 
 Then, go to the next page.
+
 ![](/Screenshots/Pasted%20image%2020260220160732.png)
+
 17. Set the cpu Cores to 1, then go to the next page.
 
 ![](/Screenshots/Pasted%20image%2020260220161344.png)
+
 18. Set the RAM to 4096 MiB. Click "Next" and leave the "Network" selections as default for now, as we will change those later.
+
 ![](/Screenshots/Pasted%20image%2020260220161414.png)
+
 19. Click "Start after created", then click "Finish"
+
 ![](/Screenshots/Pasted%20image%2020260220161836.png)
 
 You may get this screen; press any button to continue, then choose the "UEFI QEMU DVD-ROM" selection and press any key when prompted.
 
 ![](/Screenshots/Pasted%20image%2020260220162128.png)
 ![](/Screenshots/Pasted%20image%2020260220162139.png)
+
 Click Next. When prompted, select "Install Now", then, "I don't have a product key"
+
 ![](/Screenshots/Pasted%20image%2020260220162216.png)
 ![](/Screenshots/Pasted%20image%2020260220162437.png)
 ![](/Screenshots/Pasted%20image%2020260220162317.png)
+
 Select "Windows 10 Pro"
+
 ![](/Screenshots/Pasted%20image%2020260220162347.png)
+
 Accept the license terms.
-![](/Screenshots/Pasted%20image%2020260220162414.png)Choose "Custom: Windows only (advanced)"
+
+![](/Screenshots/Pasted%20image%2020260220162414.png)
+
+Choose "Custom: Windows only (advanced)"
+
 ![](/Screenshots/Pasted%20image%2020260220162531.png)
+
 Select Drive 0.
+
 ![](/Screenshots/Pasted%20image%2020260220162548.png)
+
 From here, it will install Windows 10. When it is done, we will finish up the last few steps.
+
 ![](/Screenshots/Pasted%20image%2020260220162616.png)
+
 Choose "United States"
+
 ![](/Screenshots/Pasted%20image%2020260220163013.png)
+
 Choose the keyboard layout.
+
 ![](/Screenshots/Pasted%20image%2020260220163027.png)
+
 Skip the next step.
+
 ![](/Screenshots/Pasted%20image%2020260220163041.png)
-Select "Set up for Personal use" and click next.
+
+elect "Set up for Personal use" and click next.
+
 ![](/Screenshots/Pasted%20image%2020260220163145.png)
+
 Choose "Offline account"
+
 ![](/Screenshots/Pasted%20image%2020260220163223.png)
+
 Choose "Limited Experience"
+
 ![](/Screenshots/Pasted%20image%2020260220163251.png)
+
 Name the OS. I named it "Windows10"
+
 ![](/Screenshots/Pasted%20image%2020260220163309.png)
+
 Make a super secure password and confirm it on the next page.
 
+
 ![](/Screenshots/Pasted%20image%2020260220163359.png)
+
 Choose some security questions and enter the answers
+
 ![](/Screenshots/Pasted%20image%2020260220163515.png)
 
+
 Choose "Not now" on the next page
+
 ![](/Screenshots/Pasted%20image%2020260220163541.png)
+
 I personally prefer to turn off all of the things on the next page.
-![](/Screenshots/Pasted%20image%2020260220163616.png)Skip the next page.
+
+![](/Screenshots/Pasted%20image%2020260220163616.png)
+
+Skip the next page.
+
 ![](/Screenshots/Pasted%20image%2020260220163637.png)
+
 Click "Not now" on the next page.
+
 ![](/Screenshots/Pasted%20image%2020260220163701.png)
+
 After that, you will need to wait several minutes for the Windows installation to finalize. When you see install log in, you are done with Windows 10 for now.
 
 ![](/Screenshots/Pasted%20image%2020260220163902.png)
@@ -121,19 +170,28 @@ Then, go to the next screen.
 4. Choose the Kali Linux ISO.
 
 Then, go to the next screen.
+
 ![](/Screenshots/Pasted%20image%2020260220164212.png)
 
 Keep the defaults here and go to the next screen.
 
 ![](/Screenshots/Pasted%20image%2020260220164255.png)
+
 Keep the defaults here and go to the next screen again.
+
 ![](/Screenshots/Pasted%20image%2020260220164346.png)
+
 5. Give the machine 2 CPU cores.  
+
 ![](/Screenshots/Pasted%20image%2020260220164442.png)
+
 6. Give the machine 2048 MiB (2 gigabytes) of Memory.
+ 
 ![](/Screenshots/Pasted%20image%2020260220164522.png)
+
 Keep the network information the same for now, then click "Next" to get to the confirm page. 
-7. Check the box that says "Start after created" and click Finish.
+6. Check the box that says "Start after created" and click Finish.
+
 ![](/Screenshots/Pasted%20image%2020260220164628.png)
 
 Choose "Graphical Install"
@@ -320,31 +378,53 @@ Choose the first option.
 Choose "English"
 
 ![](/Screenshots/Pasted%20image%2020260220173302.png)
+
 Choose "Done"
+
 ![](/Screenshots/Pasted%20image%2020260220173319.png)
+
 Choose "Done"
+
 ![](/Screenshots/Pasted%20image%2020260220173331.png)
+
 Choose "Done"
+
 ![](/Screenshots/Pasted%20image%2020260220173344.png)
+
 Choose "Done"
+
 ![](/Screenshots/Pasted%20image%2020260220173404.png)
+
 Choose "Done"
+
 ![](/Screenshots/Pasted%20image%2020260220173446.png)
+
 Choose "Done"
+
 ![](/Screenshots/Pasted%20image%2020260220173502.png)
+
 Choose "Done"
+
 ![](/Screenshots/Pasted%20image%2020260220173530.png)
+
 Press "Continue"
+
 ![](/Screenshots/Pasted%20image%2020260220173542.png)
 
 Put in your name, your server's name, and a username and password. 
 
 ![](/Screenshots/Pasted%20image%2020260220173624.png)
-Chose "Continue"
+
+Choose "Continue"
+
 ![](/Screenshots/Pasted%20image%2020260220173636.png)
+
 Choose "Done"
+
 ![](/Screenshots/Pasted%20image%2020260220173707.png)
+
 Choose "Done"
+
 ![](/Screenshots/Pasted%20image%2020260220173732.png)
 
 Wait for it to install, then choose "Reboot Now"

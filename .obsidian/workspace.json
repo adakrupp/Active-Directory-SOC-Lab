@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory SOC Lab/Part 2 - Install Virtual Machines on ProxMox.md",
+                "file": "Active Directory SOC Lab/Part 5 - Brute force attack, Splunk Telemetry, and Atomic Red Team.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Part 2 - Install Virtual Machines on ProxMox"
+              "title": "Part 5 - Brute force attack, Splunk Telemetry, and Atomic Red Team"
             }
           }
         ]
@@ -185,11 +185,12 @@
   },
   "active": "3493f2d9f09fda24",
   "lastOpenFiles": [
-    "Active Directory SOC Lab/Part 1 - Logical mapping and diagram.md",
-    "Active Directory SOC Lab/Part 2 - Install Virtual Machines on ProxMox.md",
-    "Active Directory SOC Lab/Part 5 - Brute force attack, Splunk Telemetry, and Atomic Red Team.md",
     "Active Directory SOC Lab/Part 4 - Configure Active Directory.md",
     "Active Directory SOC Lab/Part 3 - Configure Network, Sysmon, and Splunk.md",
+    "Active Directory SOC Lab/Part 2 - Install Virtual Machines on ProxMox.md",
+    "Screenshots/Pasted image 20260220130313.png",
+    "Active Directory SOC Lab/Part 1 - Logical mapping and diagram.md",
+    "Active Directory SOC Lab/Part 5 - Brute force attack, Splunk Telemetry, and Atomic Red Team.md",
     "Screenshots/Pasted image 20260225153222.png",
     "Screenshots/Pasted image 20260225152628.png",
     "Screenshots/Pasted image 20260225152339.png",
@@ -199,7 +200,6 @@
     "Screenshots/Pasted image 20260225150000.png",
     "Screenshots/Pasted image 20260225145938.png",
     "Screenshots/Pasted image 20260225145901.png",
-    "Screenshots/Pasted image 20260225145830.png",
     "Introduction.md",
     "Screenshots"
   ]

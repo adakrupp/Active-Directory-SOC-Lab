@@ -1,16 +1,22 @@
 Alright, so now we need to create the network and give each device their IP addresses. Consider the diagram we made in the first exercise:
 ![](/Screenshots/Pasted%20image%2020260220130313.png)
 So to recap, we need:
+
 Network: 192.168.10.0/24
+
 Splunk(Ubuntu) Server: 192.168.10.10
+
 Active Directory (Windows Server 2022): 192.168.10.7
+
 Attacker (Kali): 192.168.10.250
+
 Windows 10: DHCP on the 192.168.10.0/24 range
 
 To begin, I need to make a linux bridge in Proxmox.  I'm going to number the steps in Proxmox as they may be a little hard to follow. 
 1. Click your host
 2. Click Network
 3. Click "Create" and choose "Linux Bridge"
+
 ![](/Screenshots/Pasted%20image%2020260221124724.png)
 
 4. Input the name 'vmbr1' or another name you can remember and the IP/CIDR 192.168.10.1/24 
@@ -93,9 +99,13 @@ Over on Windows Server, go to the Control Panel > Network and Sharing Center > C
 Fill in the following information:
 
 IP Address: 192.168.10.7
+
 Subnet Mask: 255.255.255.0
+
 Default Gateway: 192.168.10.1
+
 Preferred DNS Server: 1.1.1.1
+
 Alternate DNS Server: 8.8.8.8
 
 And press 'OK'.
