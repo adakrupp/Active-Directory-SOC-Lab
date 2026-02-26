@@ -112,7 +112,7 @@ Skip the next step.
 
 ![](/Screenshots/Pasted%20image%2020260220163041.png)
 
-elect "Set up for Personal use" and click next.
+Select "Set up for Personal use" and click next.
 
 ![](/Screenshots/Pasted%20image%2020260220163145.png)
 
@@ -165,7 +165,8 @@ Click "Create VM" again, then follow these steps:
 2. Name your VM. I named mine "Kali"
 
 Then, go to the next screen. 
-![](/Screenshots/Pasted%20image%2020260220164051.png)
+![](Screenshots/Pasted%20image%2020260225163358.png)
+
 3. Choose the storage where the ISO is kept.
 4. Choose the Kali Linux ISO.
 
