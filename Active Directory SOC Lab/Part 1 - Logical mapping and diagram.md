@@ -2,9 +2,10 @@ This will be a lab to practice both Active directory and some key cybersecurity 
 
 This project's Active Directory installation will also be used in later projects in order to learn and show my skills working with Active Directory Domain Services. I will also install a Windows 11 VM in the future to be able to show the differences between 10 and 11 logs.
 
-My main resources will be MyDFIR's Active Directory Project videos Google, and Proxmox's documentation on their website. 
+My main resources will be MyDFIR's Active Directory Project videos, Google, and Proxmox's documentation on their website. 
 
 The first step is to use Draw.io to make our diagram:
+
 ![](/Screenshots/Pasted%20image%2020260220130313.png)
 
 So as we can see, our information is as follows:
