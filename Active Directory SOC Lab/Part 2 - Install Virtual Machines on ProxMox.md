@@ -165,6 +165,7 @@ Click "Create VM" again, then follow these steps:
 2. Name your VM. I named mine "Kali"
 
 Then, go to the next screen. 
+
 ![](Screenshots/Pasted%20image%2020260225163358.png)
 
 3. Choose the storage where the ISO is kept.
