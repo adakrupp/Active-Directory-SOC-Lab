@@ -166,7 +166,7 @@ Click "Create VM" again, then follow these steps:
 
 Then, go to the next screen. 
 
-![](Screenshots/Pasted%20image%2020260225163358.png)
+![](/Screenshots/Pasted%20image%2020260225163358.png)
 
 3. Choose the storage where the ISO is kept.
 4. Choose the Kali Linux ISO.
