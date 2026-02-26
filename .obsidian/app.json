@@ -1,4 +1,7 @@
 {
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "/Screenshots"
+  "attachmentFolderPath": "/Screenshots",
+  "newFileLocation": "root",
+  "newLinkFormat": "absolute",
+  "newFileFolderPath": "Screenshots"
 }

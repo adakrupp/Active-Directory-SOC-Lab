@@ -5,7 +5,7 @@ This project's Active Directory installation will also be used in later projects
 My main resources will be MyDFIR's Active Directory Project videos Google, and Proxmox's documentation on their website. 
 
 The first step is to use Draw.io to make our diagram:
-![](Pasted%20image%2020260220130313.png)
+![](/Screenshots/Pasted%20image%2020260220130313.png)
 
 So as we can see, our information is as follows:
 Domain: AdamsDomain
