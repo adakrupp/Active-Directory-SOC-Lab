@@ -10,10 +10,13 @@ First, I installed Proxmox 9.1.4. onto a physical server for virtualization purp
 
 Microsoft Windows 10
 https://www.microsoft.com/en-us/software-download/windows10ISO
+
 Windows Server 2022
 https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022
+
 Ubuntu Server 
 https://ubuntu.com/download/server
+
 Kali Linux
 https://www.kali.org/get-kali/#kali-installer-images
 
