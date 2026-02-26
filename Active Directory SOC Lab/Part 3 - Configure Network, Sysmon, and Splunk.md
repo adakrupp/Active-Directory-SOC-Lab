@@ -1,5 +1,6 @@
 Alright, so now we need to create the network and give each device their IP addresses. Consider the diagram we made in the first exercise:
 ![](/Screenshots/Pasted%20image%2020260220130313.png)
+
 So to recap, we need:
 
 Network: 192.168.10.0/24
